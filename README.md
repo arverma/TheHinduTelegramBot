@@ -1,4 +1,4 @@
-# TheHinduTelegramBot
+# Python Script To Download TheHindu Newspaper
 
 ```
 aman@Apples-MacBook-Pro-2 theHindu % python3 main.py                                   
