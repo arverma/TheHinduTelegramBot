@@ -43,9 +43,3 @@ def get_destination(url):
         date = get_today_date()
         file_name.append("TheHindu_{}_{}.pdf".format(date, i))
     return file_name
-
-
-# def send_news_paper_to_bot():
-#     url = 'https://api.telegram.org/bot1224472794:AAEKQKKC7ag9xgg6TFCTwszjXDf6yKMG3VQ/sendDocument?chat_id=704727317'
-#     files = {'document': open("/Users/aman/Documents/theHindu/file_name.pdf", 'rb')}
-#     res = requests.post(url, files = files)
