@@ -12,7 +12,7 @@
 
 ## To run
 * Clone the repo
-* `cd PythonScriptToDownloadTheHindu`
+* `cd TheHinduTelegramBot`
 * Subscribe to `@BotFather` on telegram.
 * Create a bot and get your bot token.
 * Paste the bot token in `bot.py`
