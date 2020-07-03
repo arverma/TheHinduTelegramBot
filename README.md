@@ -1,10 +1,10 @@
 # Python Script To Download TheHindu Newspaper
-##What it does?
+## About
 * Download TheHindu newspaper form `https://www.newspaperpdf.online/download-the-hindu-adfree.php`
 * Deletes the previously downloaded newspaper.
 * Sends the newspaper to the subscribed users of a telegram bot.
 
-## Requirements:
+## Requirements
 * Install these libraries:
     * BeautifulSoup
     * requests
