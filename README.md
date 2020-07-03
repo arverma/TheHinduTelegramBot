@@ -1,4 +1,4 @@
-# Python Script To Download TheHindu Newspaper
+# Telegram bot for everyday TheHindu Newspaper
 ## About
 * Download TheHindu newspaper form `https://www.newspaperpdf.online/download-the-hindu-adfree.php`
 * Deletes the previously downloaded newspaper.
